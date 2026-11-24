@@ -44,16 +44,13 @@ Datoteka je jedan JSON niz, a svaki zapis u nizu je jedan stih. Zapisi su poreda
 
 **Numeracija je hrvatska.** Gdje se hrvatska numeracija razlikuje od hebrejske ili od numeracije drugih prijevoda (npr. Joel 3–4, Malahija 3–4, naslovi psalama, Brojevi 16–17), postoje zapisi s tekstom `#`. Takvih je 220. Oni nemaju svoj sadržaj, a postoje da bi se Osječka Biblija mogla stih po stih poravnati s drugim prijevodima. Sadržaj tih stihova nalazi se u susjednom poglavlju.
 
-**Stihovi bez izvornika.** Polje `izvornik` je prazno za 42 stiha, jer tih stihova nema u izdanjima izvornika koja koristimo:
+**Izvornik** ima svaki stih, osim zapisa s tekstom `#`.
 
-- Novi zavjet (40): npr. Mt 17,21; Mt 18,11; Mt 23,14; Mk 7,16; Mk 16,9–20; Lk 17,36; Iv 5,4; Iv 7,53–8,11; Dj 8,37; Rim 16,24.
-- Stari zavjet (2): Jš 21,36–37, kojih nema u Lenjingradskom kodeksu.
+**Grčki izvornik** je tekst Nestle-Alanda, kako je označen u podacima STEPBible. Za stihove kojih u Nestle-Alandu nema uzet je Textus Receptus, npr. Mt 17,21; Mt 18,11; Mt 23,14; Mk 7,16; Mk 9,44.46; Mk 11,26; Mk 15,28; Mk 16,9–20; Lk 17,36; Lk 23,17; Iv 5,4; Iv 7,53–8,11; Dj 8,37; Dj 15,34; Dj 24,7; Dj 28,29; Rim 16,24. Dvostruke uglate zagrade `[[ ]]` označavaju odlomke koje izdavači smatraju kasnijim dodatkom (Mk 16,9–20; Iv 7,53–8,11).
 
-**Hebrejski izvornik** je suglasnički tekst bez samoglasničkih znakova (niqqud), sa znakom kraja stiha `׃`.
+**Hebrejski izvornik** je tekst Lenjingradskog kodeksa, sa znakom kraja stiha `׃`. Za Jš 21,36–37, kojih u tom kodeksu nema, uzet je tekst iz drugih hebrejskih rukopisa, prema podacima STEPBible.
 
 **Transliteracija** slijedi zapis STEPBible: točka dijeli slogove, a veliko slovo označava naglašeni slog (`be.re.Shit` = be-re-šit, naglasak na zadnjem slogu).
-
-**Grčki izvornik** sadrži riječi koje su u podacima STEPBible označene kao dio izdanja Nestle-Aland. Riječi koje postoje samo u drugim izdanjima, npr. u Textus Receptusu, nisu uključene.
 
 **Tekst** je čist, bez podnaslova, kurziva, oznaka poezije i fusnota.
 
